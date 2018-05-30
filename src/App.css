@@ -67,7 +67,14 @@ button {
   background: rgb(69, 86, 238);
   color: rgb(255, 253, 253);
   border: none;
-  transition: .2s;
+  border-radius: 2px;
+  transition: .15s;
+  font-weight: 400;
+}
+
+button:hover {
+  color: rgb(69, 86, 238);
+  background: rgb(255, 253, 253);
 }
 
 button:focus {
