@@ -403,7 +403,7 @@ app.listen( port, () => { console.log(`Server listening on port ${port}`); } );
 
 ### Summary
 
-In this step we are going to set the user Information to session, then make a call to the  `Auth0 Management API` we registered in step 1 so we can get an Auth0 `access_token`
+In this step we are going to set the user Information to session, then make a call to the  `API Explorer Application` we registered in step 1 so we can get an Auth0 `access_token`
 
 ### Instructions
 
