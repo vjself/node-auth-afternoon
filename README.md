@@ -6,6 +6,9 @@ In this project, we'll continue to use `Auth0`, but instead use the `GitHub` soc
 
 At the end of this project, you'll have a fully-working node back end that can authorize with GitHub and star a repository of your choice all from your application.
 
+
+<img src='./auth0_flow_afternoon.svg' />
+
 ## Setup
 
 * Fork and clone this repository.
